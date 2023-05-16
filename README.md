@@ -1,5 +1,5 @@
-$must$
-======
+must
+====
 
 [![Build](https://github.com/akshayjshah/must/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/akshayjshah/must/actions/workflows/ci.yaml)
 [![Report Card](https://goreportcard.com/badge/go.akshayshah.org/must)](https://goreportcard.com/report/go.akshayshah.org/must)
